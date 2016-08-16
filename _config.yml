@@ -1,4 +1,3 @@
-layout_spectrum: 0.9192757704295218
 typography_spectrum: 0.47919723740778863
 color:
   brandStrength: 0.9947231120895594
@@ -11,4 +10,6 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+layout_spectrum: 0.9192757704295218
 name: glensidehotel
+description: the perfect location
