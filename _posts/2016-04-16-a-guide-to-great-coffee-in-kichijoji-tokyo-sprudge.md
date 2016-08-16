@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T09:18:01.322Z'
+datePublished: '2016-08-16T09:21:04.576Z'
 sourcePath: _posts/2016-04-16-a-guide-to-great-coffee-in-kichijoji-tokyo-sprudge.md
 inFeed: true
 isBasedOnUrl: 'http://sprudge.com/kichijoji-coffee-guide-96034.html'
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-16T09:18:00.926Z'
+dateModified: '2016-08-16T09:21:04.087Z'
 title: weddings
 app_links: []
 publisher: {}
@@ -33,7 +33,7 @@ _type: MediaObject
 ## weddings
 
 your wedding... your way
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65eb7261573465d4b23c4709396b61f9/croprotate.jpg?cropheight=2831&cropwidth=4256&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F518d928b-d7f9-4ddd-b838-7349bbb1a97a.jpg&x=0&y=0)
+![A Guide To Great Coffee In Kichijoji, Tokyo - Sprudge](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9db7d50ea532b05f963b05655273c690b619a5e8.jpg)
 
 The Glenside Hotel is the perfect venue for your Wedding situated only a short distance from the beautiful Meath Coast and only twenty minutes drive from Dublin airport. We operate a one wedding per day policy to ensure it's all about you and your guests on your special day. We offer a fantastic range of Wedding packages or we can tailor a package to suit your needs.
 
