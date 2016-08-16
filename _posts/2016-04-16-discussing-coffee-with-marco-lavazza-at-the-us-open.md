@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T09:07:33.006Z'
+datePublished: '2016-08-16T09:08:10.730Z'
 sourcePath: _posts/2016-04-16-discussing-coffee-with-marco-lavazza-at-the-us-open.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/lavazza-us-open-2015'
@@ -18,11 +18,14 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-16T09:07:32.447Z'
-title: ''
+dateModified: '2016-08-16T09:08:10.183Z'
+title: restaurant
 app_links: []
 publisher: {}
-description: restaurant
+description: >-
+  Food is our passion with our head chef Leon and our team striving to achieve
+  the highest standards in quality and service. Our Restaurant offers a choice
+  of menus for you to enjoy.
 inLanguage: en
 inNav: false
 starred: false
@@ -30,7 +33,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-restaurant
+# restaurant
 ![quality and service](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f861ef2e-5a2e-44c6-9e9f-ebab04c606da.jpg)
 
 Food is our passion with our head chef Leon and our team striving to achieve the highest standards in quality and service. Our Restaurant offers a choice of menus for you to enjoy.
