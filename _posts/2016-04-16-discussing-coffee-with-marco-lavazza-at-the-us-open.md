@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T08:52:54.701Z'
+datePublished: '2016-08-16T09:06:17.951Z'
 sourcePath: _posts/2016-04-16-discussing-coffee-with-marco-lavazza-at-the-us-open.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/lavazza-us-open-2015'
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-16T08:52:54.046Z'
+dateModified: '2016-08-16T09:06:17.388Z'
 title: ''
 app_links: []
 publisher: {}
@@ -40,4 +40,3 @@ Food is our passion with our head chef Leon and our team striving to achieve the
 Our A la Carte Menu is served Monday to Saturday 17.30 onwards and from 12noon on a Sunday. Our Early Bird menu is available Monday to Friday 17.30 to 19.00\.
 
 For larger group dining we offer two celebration menus available seven days a week. Our Restaurant can host up to 80 diners.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/208599f1-0d08-43f3-ad9a-0d1f007265e3.jpg)
